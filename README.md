@@ -1,7 +1,7 @@
 # Preview
-!(Add Task Screen!){F:\To Do List React js\todo-list\public\page1.png}
-!(To Do List!){F:\To Do List React js\todo-list\public\page2.png}
-!(Edit and Delete Options){F:\To Do List React js\todo-list\public\page3.png}
+![Add Task Screen!]{F:\To Do List React js\todo-list\public\page1.png}
+![To Do List!]{F:\To Do List React js\todo-list\public\page2.png}
+![Edit and Delete Options]{F:\To Do List React js\todo-list\public\page3.png}
 ### `npm start`
 
 Runs the app in the development mode.\
